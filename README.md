@@ -21,4 +21,5 @@ Host and smartphone video communication are connected based on WebRTC technology
 
 # Contact
 rtlink.park@gmail.com
+http://practical.kr/?p=521[http://practical.kr/?p=521]
 
