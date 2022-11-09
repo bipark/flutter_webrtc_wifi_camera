@@ -7,7 +7,7 @@ It is an app for iPhone/Android/Mac that allows you to use a smartphone (iOS/And
 
 ![Wifi Camera](webcam.png "Wifi Camera")
 
-# Discovery
+# Discover
 
 카메라는 Zeroconf 기반의 패키지인 bonsoir를 이용하여 로컬 네트워크에서 앱이 실행되면 자동으로 연결됩니다. 
 
