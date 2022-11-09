@@ -1,0 +1,31 @@
+name: phonecam
+description: Phone Camera By Flutter
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  bonsoir: ^2.0.0
+  bonsoir_darwin: ^2.0.0+3
+  socket_io: ^1.0.1
+  socket_io_client: ^1.0.2
+  flutter_webrtc: ^0.9.12
+  bonsoir_android: ^2.0.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
